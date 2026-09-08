@@ -122,10 +122,9 @@ This analysis is based on a study originally published by the University of São
 
 ## ▶️ How to Run
 
-### 1. Clone the repository
+### 1. Open the analysis folder
 ```bash
-git clone <repository-url>
-cd projects-portfolio
+cd data-analysis/happiness-report-case-study
 ```
 
 ### 2. Create and activate a virtual environment
@@ -148,10 +147,8 @@ pip install -r requirements.txt
 ```
 
 ### 4. Open the notebook
-From the project root, open:
-
 ```bash
-jupyter notebook data-analysis/happiness-report-case-study/happiness-report-case-study.ipynb
+jupyter notebook happiness-report-case-study.ipynb
 ```
 
 or open the file directly in VS Code and select the project virtual environment as the Python kernel.
